@@ -42,11 +42,6 @@ I'm a Blue Prism Automation Developer based in the UK, currently diving deep int
 - **Email:** [jordennortondev@gmail.com](mailto:jordennortondev@gmail.com)
 - **LinkedIn:** [Jorden Norton](https://www.linkedin.com/in/jorden-norton-086039161/)
 
-<!-- This is a comment in Markdown, just to demonstrate how comments work. They won't appear in the rendered view. -->
-
 ## 🤝 Contribute
-I'm always open to collaborating on interesting projects in RPA and development. Feel free to reach out if you have an idea or a project in mind!
+I'm always open to collaborating on interesting projects. Feel free to reach out if you have an idea or a project in mind!
 
----
-
-> “The best way to predict the future is to invent it.” - Alan Kay
