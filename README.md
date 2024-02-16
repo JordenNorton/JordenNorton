@@ -25,9 +25,17 @@ Here are some ideas to get you started:
 I'm a Blue Prism Automation Developer based in the UK, currently diving deep into the world of C# and .NET frameworks. With a passion for RPA and automation, I'm on a journey to broaden my skills in software development, eagerly awaiting to add Python to my toolkit.
 
 ## 🌱 What I'm Learning
-- **C# and .NET Frameworks:** Currently, I'm honing my skills in C# and familiarizing myself with the .NET 8 environment, Web API's & MAUI.
-- **Python:** Up next on my learning path is Python, a language known for its versatility and efficiency in automation and beyond.
-- **Microsoft Power Platform:** Exploring the capabilities of Microsoft Power Platform to enhance my expertise in business automation and process improvement. 
+
+### Currently
+- **C# and .NET Frameworks:** Honing skills in C# and exploring .NET 8, including Web API's & MAUI.
+- **Python:** Preparing to start learning Python for its versatility in automation, web development, and data science.
+- **Microsoft Power Platform:** Exploring capabilities for business automation and process improvement.
+
+### Future Focus
+- **F#:** Planning to delve into F# for functional programming within the .NET ecosystem, aiming at building efficient and scalable solutions.
+- **JavaScript/TypeScript:** Expanding into JavaScript and TypeScript to develop dynamic web applications and server-side solutions.
+- **Rust:** Intending to explore Rust for system-level programming focused on safety and concurrency in performance-critical applications.
+
 
 ## 💼 Technical Skills
 - **RPA & Automation:** Proficient in Blue Prism, creating efficient automation solutions.
