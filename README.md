@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Jorden 👋
 
 ## 🚀 About Me
-I'm a Blue Prism Automation Developer based in the UK, currently diving deep into the world of C# and .NET frameworks. With a passion for RPA and automation, I'm on a journey to broaden my skills in software development, eagerly awaiting to add Python to my toolkit.
-
+I'm a Blue Prism Automation Developer based in the UK, currently diving deep into the world of C# and .NET frameworks. With a passion for RPA and automation, I'm on a journey to broaden my skills in software development.
 ## 🌱 What I'm Learning
 
 ### Currently
