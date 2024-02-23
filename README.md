@@ -17,6 +17,11 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=cs,dotnet,mongo,mysql,md" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,vscode" />
+  </a>
+</p>
 
 # Hi there, I'm Jorden 👋
 
