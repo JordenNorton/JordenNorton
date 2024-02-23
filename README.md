@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Jorden 👋
 
 ## 🚀 About Me
-I'm a Blue Prism Automation Developer based in the UK, currently diving deep into the world of C# and .NET frameworks. With a passion for RPA and automation, I'm on a journey to broaden my skills in software development.
+I'm a certified Blue Prism Automation Developer based in the UK, currently diving deep into the world of C# and .NET frameworks. With a passion for RPA and automation, I'm on a journey to broaden my skills in software development.
 ## 🌱 What I'm Learning
 
 ### Currently
@@ -41,7 +41,7 @@ I'm a Blue Prism Automation Developer based in the UK, currently diving deep int
 
 
 ## 💼 Technical Skills
-- **RPA & Automation:** Proficient in Blue Prism, creating efficient automation solutions.
+- **RPA & Automation:** Certified and proficient in Blue Prism, creating efficient automation solutions.
 - **Programming:** Skilled in C#, with a growing expertise in .NET frameworks.
 - **Tools & Technologies:** Familiar with version control (Git), database management, and various development tools.
 
