@@ -35,9 +35,9 @@ I'm a certified Blue Prism Automation Developer based in the UK, currently divin
 - **Microsoft Power Platform:** Exploring capabilities for business automation and process improvement.
 
 ### Future Focus
-- **F#:** Planning to delve into F# for functional programming within the .NET ecosystem, aiming at building efficient and scalable solutions.
-- **JavaScript/TypeScript:** Expanding into JavaScript and TypeScript to develop dynamic web applications and server-side solutions.
-- **Rust:** Intending to explore Rust for system-level programming focused on safety and concurrency in performance-critical applications.
+- **Python:** For its versatility in automation, web development, and data science.
+- **F#:** For functional programming within the .NET ecosystem, aiming at building efficient and scalable solutions.
+- **Rust:** For system-level programming focused on safety and concurrency in performance-critical applications.
 
 
 ## 💼 Technical Skills
