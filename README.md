@@ -56,3 +56,11 @@ I'm a certified Blue Prism Automation Developer based in the UK, currently divin
 ## 🤝 Contribute
 I'm always open to collaborating on interesting projects. Feel free to reach out if you have an idea or a project in mind!
 
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/JordenNorton/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JNorton&layout=compact&theme=dracula&hide=text,csproj,config,GitIgnore+file,go.mod,solution+file,razor,blazor" />
+  </a>
+</p>
