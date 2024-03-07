@@ -61,6 +61,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 <p align="center">
   <a href="https://github.com/JordenNorton/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JNorton&layout=compact&theme=dracula&hide=text,csproj,config,GitIgnore+file,go.mod,solution+file,json,xml" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JNorton&layout=compact&theme=dracula&hide=text,csproj,config,GitIgnore+file,go.mod,solution+file,json,xml,cshtml,svg" />
   </a>
 </p>
