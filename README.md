@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,mongo" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,postgresql,mongo" />
   </a>
 </p>
 
