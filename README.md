@@ -30,15 +30,8 @@ I'm a certified Blue Prism Automation Developer based in the UK, currently divin
 ## 🌱 What I'm Learning
 
 ### Currently
-- **C# and .NET Frameworks:** Honing skills in C# and exploring .NET 8, including Web API's & MAUI.
 - **Go:** Preparing to start learning Go for its efficiency in building fast, reliable, and efficient software across various domains such as web development, cloud services, and more.
 - **Microsoft Power Platform:** Exploring capabilities for business automation and process improvement.
-
-### Future Focus
-- **Python:** For its versatility in automation, web development, and data science.
-- **F#:** For functional programming within the .NET ecosystem, aiming at building efficient and scalable solutions.
-- **Rust:** For system-level programming focused on safety and concurrency in performance-critical applications.
-
 
 ## 💼 Technical Skills
 - **RPA & Automation:** Certified and proficient in Blue Prism, creating efficient automation solutions.
