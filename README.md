@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go" />
+    <img src="https://skillicons.dev/icons?i=cs,go,react" />
   </a>
 </p>
 <p align="center">
@@ -23,25 +23,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# Hi there, I'm Jorden 👋
+# Hi, I'm Jorden 👋
 
 ## 🚀 About Me
-I'm a certified Blue Prism Automation Developer based in the UK, currently diving deep into the world of C# and .NET frameworks. With a passion for RPA and automation, I'm on a journey to broaden my skills in software development.
-## 🌱 What I'm Learning
-
-### Currently
-- **Go:** Preparing to start learning Go for its efficiency in building fast, reliable, and efficient software across various domains such as web development, cloud services, and more.
-- **Microsoft Power Platform:** Exploring capabilities for business automation and process improvement.
-
-## 💼 Technical Skills
-- **RPA & Automation:** Certified and proficient in Blue Prism, creating efficient automation solutions.
-- **Programming:** Skilled in C#, with a growing expertise in .NET frameworks.
-- **Tools & Technologies:** Familiar with version control (Git), database management, and various development tools.
-
-## 📈 Future Goals
-- **Expand My Programming Portfolio:** By learning Python and contributing to a variety of projects, I aim to build a diverse portfolio.
-- **Advance in RPA and Business Automation:** Seeking to deepen my expertise in RPA and business automation, exploring advanced techniques and tools in Microsoft Power Platform and beyond.
-
+I’m a Senior Automation Developer from the UK, deeply invested in making work simpler and smarter. With a passion for RPA and automation, I'm on a journey to broaden my skills in software development.
+- 
 ## 📫 How to Reach Me
 - **Email:** [jordennortondev@gmail.com](mailto:jordennortondev@gmail.com)
 - **LinkedIn:** [Jorden Norton](https://www.linkedin.com/in/jorden-norton-086039161/)
