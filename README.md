@@ -14,6 +14,8 @@ My background is in RPA and process automation, and I'm currently expanding my w
 
 ### IntoFluency
 
+https://www.intofluency.app/
+
 An AI-powered language learning app that generates personalised reading lessons, vocabulary support, grammar explanations, and writing feedback.
 
 Built with Next.js, TypeScript, Tailwind CSS, Supabase, OpenAI API, and Vercel.
